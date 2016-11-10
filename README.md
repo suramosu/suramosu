@@ -1,2 +1,0 @@
-# suramosu
-learning javascript
